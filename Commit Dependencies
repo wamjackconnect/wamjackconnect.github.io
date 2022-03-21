@@ -1,0 +1,3 @@
+NEW: "vue-bootstrap-multiselect" and "vee-validate@3"
+OLD-NEW: Latest Version of Bootstrap-5
+Milan, I don't know why you git ignored the package.json; but I'm pretty sure we need it to run in client.
